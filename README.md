@@ -59,7 +59,7 @@ En el archivo, inserta el siguiente ruta:
 127.0.0.1   www.nuevositio.es
 ```
 
-### 3. Activar el sitio web en apache.
+### 4. Activar el sitio web en apache.
 
 Debes entrar en el terminal del contenedor donde se encuentra el apache.
 > Para ello lo mejor es desde Visual Studio Code, con la extensión de Docker, arrancar los contenedores y con el botón derecho en dsw-lamp_www lanzar **"Attach Shell"**
